@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Exit.mp3-e02046486b7b7697bf50b11f2bf32515.mp3str"
+
+[deps]
+
+source_file="res://Sound Assets/Exit.mp3"
+dest_files=[ "res://.import/Exit.mp3-e02046486b7b7697bf50b11f2bf32515.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
